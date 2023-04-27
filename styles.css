@@ -7,9 +7,7 @@
 }
 
 .book-library{
-/*     background-color: #ffffff; */
 	background-color: #ffffff;
-/* 	background-color: #33CC66; */
     margin-top: 10px;
 }
 
@@ -28,15 +26,11 @@
     /* padding-top: 10px; */
     margin-left: 20px;
 }
-/* .book{
-	color: rgb(255, 255, 255);
-} */
+
 .author{
-/*     color: #777777; */
 	color: #777777;
     text-align: left;
     margin-left: 20px;
-    /* padding-top: 10px; */
 }
 
 .price-block{
